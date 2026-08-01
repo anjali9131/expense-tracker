@@ -1,0 +1,17 @@
+# Backend (Maven)
+src/backend/target/
+*.class
+
+# Frontend (Node)
+src/frontend/node_modules/
+src/frontend/dist/
+
+# Runtime data (created automatically when the API runs)
+src/backend/expenses-data.json
+expenses-data.json
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
